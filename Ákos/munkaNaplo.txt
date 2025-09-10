@@ -1,0 +1,3 @@
+2025.09.10: Program lényege egy classroomhoz hasonló oktatási felület ahol van tanár és diák profil külön.
+Munka folyamatok: A regisztrációs oldal megtervezése (kép a Tominál) 
+	    
